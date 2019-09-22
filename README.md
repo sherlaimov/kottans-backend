@@ -26,3 +26,17 @@ $ git show SHA
 ```sh
 git log --all --grep='Convert social links from text to images'
 ```
+
+**see changes that have been made but haven't been committed, yet**
+```sh
+$ git diff
+```
+
+**Tag a commit**
+```sh
+$ git tag -a beta
+```
+**Delete a tag**
+```sh
+$ git tag -d beta
+```
