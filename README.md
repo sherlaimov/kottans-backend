@@ -210,3 +210,21 @@ kill -9 PID
 ```sh
 type code
 ```
+
+## NodeJS Basics 1
+
+> Honestly, I've been struggling to wrap my mind around streams, and I still am.
+> I refuse to say I know something unless I understand all ins and outs of how something works internally.
+
+> For example, we had to use the npm `through2` package, whereas I tried to solve the problems without it, alas, to no avail. I would really appreciate some more practical tasks to understand/refine my understanding of how streams work.
+
+> I also had a hard time with a couple of tasks from the Functional JS Workshop, but I enjoyed solving them. My favorite ones include `currying`, `trampoline`, as well as binding `Array.prototype.slice` to `Function.prototype.call.` in order to create a function which acts like `slice`.
+
+ <details>
+  <summary>NodeJS Basic Courses - Screenshots</summary>
+
+![learnyounode course completed](node_basic_1/screenshots/learnyounode.png)
+![fn js workshop course completed](node_basic_1/screenshots/fn-js-workshop.png)
+![stream-adventure course completed](node_basic_1/screenshots/stream-adventure.png)
+
+</details>
